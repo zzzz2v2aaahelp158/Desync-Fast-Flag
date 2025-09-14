@@ -1,0 +1,10 @@
+{
+  "FIntFlagUpdateVersion": 132,
+  "DFIntTaskSchedulerTargetFps": 550,
+  "FFlagHandleAltEnterFullscreenManually": false,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
+  "FIntInterpolationAwareTargetTimeLerpHundredth": 15, -- You could change this number the lower u do for example 8, the slower it gets. 
+  "DFIntMaxFrameBufferSize": 2,
+  "DFIntMaxFramesToSend": 1,
+  "DFIntMaxAverageFrameDelayExceedFactor": 0
+}
